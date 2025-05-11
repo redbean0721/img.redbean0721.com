@@ -1,0 +1,5 @@
+name = "redbean0721-image-service"
+type = "javascript"
+
+main = "worker.js"
+compatibility_date = "2025-05-11"
