@@ -978,7 +978,7 @@ async function handleRequest(request) {
 			</div>
 			</div>
 		</section>
-		// <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" crossorigin="anonymous"></script>
+		<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" crossorigin="anonymous"></script> -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js" crossorigin="anonymous"></script>
 		<script>
 			// 更新年份
