@@ -236,7 +236,8 @@ async function handleRequest(request) {
 			<meta charset="UTF-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
 			<title>Redbean0721 Image Service - Cloudflare ${colo} Node</title>
-			<link rel="shortcut icon" href="https://api.redbean0721.com/favicon.ico" type="image/x-icon">
+			<meta name="description" content="Redbean0721 Image Service">
+			<link rel="icon" href="/favicon.ico" type="image/x-icon">
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/css/bootstrap.min.css" crossorigin="anonymous" />
 			<!-- <link rel="stylesheet" href="https://cdn.imlazy.ink:233/css/style.css"> -->
 			<style>
